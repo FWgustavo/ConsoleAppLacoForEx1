@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppLacoForEx1", "ConsoleAppLacoForEx1\ConsoleAppLacoForEx1.csproj", "{2472FEEC-9007-4061-B59C-561FFD7C11C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2472FEEC-9007-4061-B59C-561FFD7C11C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2472FEEC-9007-4061-B59C-561FFD7C11C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2472FEEC-9007-4061-B59C-561FFD7C11C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2472FEEC-9007-4061-B59C-561FFD7C11C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C56980A3-D90A-4FF2-B2FE-021E686DF8DC}
+	EndGlobalSection
+EndGlobal
